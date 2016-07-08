@@ -83,7 +83,7 @@ class MyObject {
 
 $arr[] = '1';
 $arr[] = '2';
-$arr[] = '4';
+$arr[] = '5';
 
 echo 'arr'.$arr['0'];
 
